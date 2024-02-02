@@ -1,0 +1,17 @@
+body{
+    background-color:white;
+  }
+  .head{
+    text-align: center;
+    text-decoration: underline;
+  }
+  .container{
+    background-color: lightskyblue;
+  }
+  .container-form{
+    background-color: whitesmoke;
+  }
+  .btn btn-primary{
+    align-items: end;
+  }
+  
